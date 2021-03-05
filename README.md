@@ -65,7 +65,7 @@ Kong has been built with the following leading principles:
   from Kong.
 - **WebSockets**: Communicate to your upstream services via WebSockets.
 - **gRPC**: Communicate to your gRPC services and observe your traffic with logging
-  and observability plugins
+  and observability plugins.
 - **OAuth2.0**: Easily add OAuth2.0 authentication to your APIs.
 - **Logging**: Log requests and responses to your system over HTTP, TCP, UDP,
   or to disk.
@@ -75,7 +75,7 @@ Kong has been built with the following leading principles:
 - **Monitoring**: Live monitoring provides key load and performance server
   metrics.
 - **Forward Proxy**: Make Kong connect to intermediary transparent HTTP proxies.
-- **Authentications**: HMAC, JWT, Basic, and more.
+- **Authentications**: HMAC, JWT, Basic, and many more.
 - **Rate-limiting**: Block and throttle requests based on many variables.
 - **Transformations**: Add, remove, or manipulate HTTP requests and responses.
 - **Caching**: Cache and serve responses at the proxy layer.
@@ -94,7 +94,7 @@ Kong has been built with the following leading principles:
 - **Plugins**: Extendable architecture for adding functionality to Kong and
   APIs.
 
-For more info about plugins and integrations, you can check out the [Kong
+For more information about plugins and integrations, you can check out the [Kong
 Hub](https://docs.konghq.com/hub/).
 
 ## Distributions
